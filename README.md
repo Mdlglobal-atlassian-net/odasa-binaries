@@ -1,4 +1,4 @@
-# ODASA: *Deprecated* in favor of [CodeQL CLI](https://github.com/github/codeql-cli)
+# ODASA: *Deprecated* in favor of [CodeQL CLI](https://github.com/github/codeql-cli-binaries)
 
 This repository contains [binary releases](https://github.com/Semmle/odasa-binaries/releases) of the ODASA command-line tool for interacting with CodeQL. In November 2019, the much-improved [CodeQL CLI](https://github.com/github/codeql-cli-binaries) was released. You are encouraged to use that instead.
 
